@@ -1,5 +1,15 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: Coyote Blog
+description: Sharing thoughts and ideas about life, tech, and more.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+url: "https://jia-whu-edu.github.io/coyote.github.io" # 你的网站 URL
+
+
+# 插件
+plugins:
+  - jekyll-sitemap    # 自动生成网站地图
+  - jekyll-feed       # RSS 订阅
+  - jekyll-seo-tag    # SEO 优化
+  - jekyll-paginate   # 分页支持
