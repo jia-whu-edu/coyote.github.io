@@ -1,4 +1,10 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
+@import "{{ site.theme }}";
+
+// 你可以在这里添加自定义的 CSS 或 Sass 样式
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
