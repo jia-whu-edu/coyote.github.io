@@ -2,12 +2,12 @@
 title: My Awesome Blog
 description: Sharing thoughts and ideas about life, tech, and more.
 baseurl: "" # 根目录（如果不是顶层页面，可以设置为子目录，例如 /blog）
-url: "https://<your-github-username>.github.io" # 你的网站 URL
+url: "https://coyote.github.io" # 你的网站 URL
 
 # 作者信息
 author:
-  name: Your Name
-  email: your.email@example.com
+  name: Coyote
+  email: jztneurosurgery@hotmail.com
   social:
     twitter: your_twitter_username
     github: your_github_username
