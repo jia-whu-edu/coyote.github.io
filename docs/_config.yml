@@ -1,4 +1,4 @@
 title: Coyote Blog
 description: Sharing thoughts and ideas about life, tech, and more.
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-cayman
