@@ -1,3 +1,6 @@
+remote_theme: pages-themes/cayman@v0.2.0
+
+
 # 网站信息
 title: My Awesome Blog
 description: Sharing thoughts and ideas about life, tech, and more.
@@ -12,9 +15,6 @@ author:
     twitter: your_twitter_username
     github: your_github_username
 
-# 主题设置
-theme: minima # 使用 Jekyll 默认主题
-
 # Markdown 设置
 markdown: kramdown
 kramdown:
@@ -27,6 +27,7 @@ plugins:
   - jekyll-feed       # RSS 订阅
   - jekyll-seo-tag    # SEO 优化
   - jekyll-paginate   # 分页支持
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # 分页
 paginate: 5 # 每页文章数
