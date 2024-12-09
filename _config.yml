@@ -1,8 +1,8 @@
 # 网站信息
 title: My Awesome Blog
 description: Sharing thoughts and ideas about life, tech, and more.
-baseurl: "" # 根目录（如果不是顶层页面，可以设置为子目录，例如 /blog）
-url: "https://coyote.github.io" # 你的网站 URL
+baseurl: "/" # 根目录（如果不是顶层页面，可以设置为子目录，例如 /blog）
+url: "https://jia-whu-edu.github.io/coyote.github.io/" # 你的网站 URL
 
 # 作者信息
 author:
