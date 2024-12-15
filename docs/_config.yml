@@ -14,11 +14,6 @@ blog: False
 remote_theme: pages-themes/cayman@v0.2.0
 
 plugins:
-  - jekyll-scholar
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
   - jekyll-remote-theme
   
 bootstrap:
