@@ -1,19 +1,17 @@
-remote_theme: pages-themes/cayman@v0.2.0
+baseurl: "/docs"
 
 title: Coyote Blog
+author: Coyote
 description: Sharing thoughts and ideas about life, tech, and more.
 show_downloads: false
 
+github_username:  coyote
 
-theme_settings:
-  title: Coytoe Blog
+publications: True
+blog: True
 
-  experience_title: EXPERIENCE
-  interests_title: RESEARCH INTERESTS
-  skills_title: SKILLS
-  #awards_title: AWARDS
-  projects_title: PROJECTS
-  recentpubs_title: RECENT PUBLICATIONS
+
+remote_theme: pages-themes/cayman@v0.2.0
 
 plugins:
   - jekyll-scholar
