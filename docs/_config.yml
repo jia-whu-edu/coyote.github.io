@@ -8,7 +8,7 @@ show_downloads: false
 github_username:  coyote
 
 publications: True
-blog: True
+blog: False
 
 
 remote_theme: pages-themes/cayman@v0.2.0
