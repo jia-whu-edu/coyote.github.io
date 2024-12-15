@@ -12,15 +12,20 @@ theme_settings:
   #awards_title: AWARDS
   projects_title: PROJECTS
   recentpubs_title: RECENT PUBLICATIONS
-  
+
+remote_theme: pages-themes/cayman@v0.2.0
+
 plugins:
   - jekyll-scholar
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-remote-theme
   
 bootstrap:
   assets: true
 
-theme: jekyll-theme-slate
+
+
+
