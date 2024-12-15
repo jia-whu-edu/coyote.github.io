@@ -1,0 +1,4 @@
+source "https://rubygems.org"
+
+gem "jekyll"
+gem "webrick" # 必须手动指定，用于运行 `jekyll serve`
